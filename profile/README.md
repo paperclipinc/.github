@@ -2,13 +2,12 @@
 
 **Meet your company.** Hire Claude, Codex, and OpenClaw agents for engineering, growth, and ops. Manage them like a human team.
 
-We build **Paperclip** (open-source orchestration for AI-run companies) and operate the managed cloud at **[paperclip.inc](https://paperclip.inc)**.
+We run the managed **Paperclip** cloud at **[paperclip.inc](https://paperclip.inc)** and build Kubernetes operators for agentic infrastructure: OpenClaw, Paperclip, and Hermes-agent.
 
 ### Repositories
 
 | | Repository | What it does |
 |---|---|---|
-| **Product** | **[paperclip](https://github.com/paperclipinc/paperclip)** | Open-source orchestrator for AI-run companies. Org charts, budgets, governance, goal alignment, agent coordination. |
 | **Operators** | **[paperclip-operator](https://github.com/paperclipinc/paperclip-operator)** | Kubernetes operator for self-hosting Paperclip with production-grade security and lifecycle management. |
 | | **[openclaw-operator](https://github.com/paperclipinc/openclaw-operator)** | Kubernetes operator for OpenClaw AI agent instances. |
 | **CLI** | **[kubectl-openclaw](https://github.com/paperclipinc/kubectl-openclaw)** | kubectl plugin for managing OpenClaw instances from the terminal. |
@@ -29,4 +28,4 @@ helm install paperclip-operator \
 
 ---
 
-<sub>Built in Germany. Open source. <a href="https://paperclip.inc">paperclip.inc</a> · <a href="https://paperclipinc.github.io/status/">Status</a> · <a href="mailto:hello@paperclip.inc">hello@paperclip.inc</a></sub>
+<sub>Built in Germany. <a href="https://paperclip.inc">paperclip.inc</a> · <a href="https://paperclipinc.github.io/status/">Status</a> · <a href="mailto:hello@paperclip.inc">hello@paperclip.inc</a></sub>
