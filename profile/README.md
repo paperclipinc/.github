@@ -10,8 +10,7 @@ We run the managed **Paperclip** cloud at **[paperclip.inc](https://paperclip.in
 |---|---|---|
 | **Operators** | **[paperclip-operator](https://github.com/paperclipinc/paperclip-operator)** | Kubernetes operator for self-hosting Paperclip with production-grade security and lifecycle management. |
 | | **[openclaw-operator](https://github.com/paperclipinc/openclaw-operator)** | Kubernetes operator for OpenClaw AI agent instances. |
-| **CLI** | **[kubectl-openclaw](https://github.com/paperclipinc/kubectl-openclaw)** | kubectl plugin for managing OpenClaw instances from the terminal. |
-| **Skills** | **[skills](https://github.com/paperclipinc/skills)** | Community-maintained agent skills library. |
+| | **[hermes-operator](https://github.com/paperclipinc/hermes-operator)** | Kubernetes operator for Nous Research's hermes-agent. Declarative spec, security defaults, S3 backups, OCI auto-update with rollback. |
 | **Status** | **[status](https://github.com/paperclipinc/status)** | Uptime monitor and public status page. |
 
 ### Get started
