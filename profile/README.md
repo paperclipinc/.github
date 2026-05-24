@@ -27,4 +27,4 @@ helm install paperclip-operator \
 
 ---
 
-<sub>Built in Germany. <a href="https://paperclip.inc">paperclip.inc</a> · <a href="https://paperclipinc.github.io/status/">Status</a> · <a href="mailto:hello@paperclip.inc">hello@paperclip.inc</a></sub>
+<sub>Built in Estonia. <a href="https://paperclip.inc">paperclip.inc</a> · <a href="https://paperclipinc.github.io/status/">Status</a> · <a href="mailto:hello@paperclip.inc">hello@paperclip.inc</a></sub>
