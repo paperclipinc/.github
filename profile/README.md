@@ -4,6 +4,8 @@
 
 We run the managed **Paperclip** cloud at **[paperclip.inc](https://paperclip.inc)** and build Kubernetes operators for agentic infrastructure: OpenClaw, Paperclip, and Hermes-agent.
 
+New here? Start with [what Paperclip AI is and how it works](https://paperclip.inc/blog/what-is-paperclip-ai).
+
 ### Repositories
 
 | | Repository | What it does |
